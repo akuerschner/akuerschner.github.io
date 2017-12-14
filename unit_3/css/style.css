@@ -5,6 +5,7 @@ h1 {
 	text-align: center;
 	font-size: 50px;
 
+
 }
 
 p {
@@ -16,7 +17,7 @@ p {
 p1 {
 	color: gold;
 	text-align: center;
-	font-style: italic;
+	font-style: normal;
 }
 
 p2, ul {
