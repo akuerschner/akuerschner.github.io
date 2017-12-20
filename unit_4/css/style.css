@@ -1,0 +1,30 @@
+body {background-color:#45B39D;}
+
+h1 {
+	color:gold;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Spirax', cursive;
+
+}
+
+p {
+	color: gold;
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+	font-size:35px;
+}
+
+p1 {
+	color: gold;
+	text-align: center;
+	font-style: normal;
+	font-size:20px;
+}
+
+p2, ul {
+	color: gold;
+	text-align: left;
+	font-style: normal;
+
+}
